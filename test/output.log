@@ -1,0 +1,1549 @@
+cfgguide.tex
+---------------------------------------------------------------
+
+
+
+WARNING: Unknown complex command - \ExecuteOptions			ALAH				dvips		 in line: 436
+WARNING: Unknown complex command - \ExecuteOptions			ALAH				textures		 in line: 437
+
+
+Succes 
+clsguide.tex
+---------------------------------------------------------------
+
+WARNING: Unknown complex command - \chapter			ALAH				title		 in line: 58
+WARNING: Unknown command - \cfgguide		 in line: 127
+WARNING: Unknown command - \modguide		 in line: 129
+WARNING: Unknown command - \PassOptionsToClass		 in line: 269
+WARNING: Unknown command - \MinusOne		 in line: 282
+WARNING: Unknown command - \setbox		 in line: 298
+WARNING: Unknown command - \vbox		 in line: 300
+WARNING: Unknown command - \color		 in line: 307
+WARNING: Unknown command - \setbox		 in line: 312
+WARNING: Unknown command - \color		 in line: 312
+WARNING: Unknown complex command - \hbox		 in line: 312
+WARNING: Unknown command - \normalcolor		 in line: 321
+WARNING: Unknown command - \relax		 in line: 322
+WARNING: Unknown command - \DeclareRobustCommand		 in line: 340
+WARNING: Unknown command - \textfont		 in line: 341
+WARNING: Unknown command - \scriptfont		 in line: 344
+WARNING: Unknown complex command - \NeedsTeXFormat			ALAH				LaTeX2e		 in line: 399
+WARNING: Unknown complex command - \LoadClass			ALAH				article		 in line: 401
+WARNING: Unknown command - \CheckCommand		 in line: 417
+WARNING: Unknown command - \endfoo		 in line: 418
+WARNING: Unknown complex command - \m			ALAH				dimen		 in line: 420
+WARNING: Unknown complex command - \m			ALAH				skip		 in line: 420
+WARNING: Unknown command - \setbox		 in line: 424
+WARNING: Unknown command - \vbox		 in line: 426
+WARNING: Unknown command - \PackageError		 in line: 426
+WARNING: Unknown command - \PackageWarning		 in line: 426
+WARNING: Unknown command - \PackageInfo		 in line: 428
+WARNING: Unknown command - \ds		 in line: 431
+WARNING: Unknown command - \overfullrule		 in line: 435
+WARNING: Unknown complex command - \ds		 in line: 435
+WARNING: Unknown complex command - \DeclareOption			ALAH				draft		 in line: 440
+WARNING: Unknown command - \overfullrule		 in line: 440
+WARNING: Unknown command - \relax		 in line: 442
+WARNING: Unknown complex command - \NeedsTeXFormat			ALAH				LaTeX2e		 in line: 467
+WARNING: Unknown command - \enddocument		 in line: 474
+WARNING: Unknown command - \AtBeginDocument		 in line: 475
+WARNING: Unknown command - \AtEndDocument		 in line: 475
+WARNING: Unknown command - \AtBeginDocument		 in line: 485
+WARNING: Unknown complex command - \NeedsTeXFormat			ALAH				LaTeX2e		 in line: 507
+WARNING: Unknown complex command - \ProvidesPackage			ALAH				package		 in line: 508
+WARNING: Unknown complex command - \NeedsTeXFormat			ALAH				LaTeX2e		 in line: 512
+WARNING: Unknown complex command - \ProvidesPackage			ALAH				latexsym		 in line: 513
+WARNING: Unknown complex command - \NeedsTeXFormat			ALAH				LaTeX2e		 in line: 517
+WARNING: Unknown complex command - \ProvidesClass			ALAH				class-name		 in line: 518
+WARNING: Unknown complex command - \NeedsTeXFormat			ALAH				LaTeX2e		 in line: 522
+WARNING: Unknown complex command - \ProvidesClass			ALAH				article		 in line: 523
+WARNING: Unknown complex command - \m			ALAH				date		 in line: 526
+WARNING: Unknown command - \NeedsTeXFormat		 in line: 529
+WARNING: Unknown complex command - \RequirePackage			ALAH				ifthen		 in line: 564
+WARNING: Unknown complex command - \LoadClassWithOptions			ALAH				class-name		 in line: 591
+WARNING: Unknown complex command - \RequirePackageWithOptions			ALAH				package		 in line: 592
+WARNING: Unknown complex command - \RequirePackageWithOptions			ALAH				graphics		 in line: 597
+WARNING: Unknown complex command - \DeclareOption			ALAH				option		 in line: 613
+WARNING: Unknown complex command - \DeclareOption			ALAH				dvips		 in line: 618
+WARNING: Unknown command - \paperheight		 in line: 623
+WARNING: Unknown command - \paperwidth		 in line: 624
+WARNING: Unknown complex command - \DeclareOption			ALAH				a4paper		 in line: 625
+
+WARNING: Unknown command - \paperheight		 in line: 625
+WARNING: Unknown command - \paperwidth		 in line: 626
+WARNING: Unknown complex command - \setlength		 in line: 626
+WARNING: Unknown complex command - \DeclareOption			ALAH				code		 in line: 634
+
+WARNING: Unknown command - \PackageWarning		 in line: 639
+WARNING: Unknown complex command - \DeclareOption		 in line: 639
+WARNING: Unknown command - \CurrentOption		 in line: 639
+WARNING: Unknown complex command - \m			ALAH				ENC		 in line: 645
+
+WARNING: Unknown command - \CurrentOption		 in line: 648
+WARNING: Unknown complex command - \DeclareOption		 in line: 648
+WARNING: Unknown command - \PassOptionsToPackage		 in line: 653
+WARNING: Unknown command - \PassOptionsToClass		 in line: 657
+
+WARNING: Unknown command - \PassOptionsToClass		 in line: 658
+WARNING: Unknown command - \CurrentOption		 in line: 658
+WARNING: Unknown complex command - \DeclareOption		 in line: 658
+WARNING: Unknown command - \relax		 in line: 669
+WARNING: Unknown complex command - \m			ALAH				code		 in line: 670
+WARNING: Unknown complex command - \DeclareOption			ALAH				foo		 in line: 676
+WARNING: Unknown complex command - \DeclareOption			ALAH				baz		 in line: 677
+WARNING: Unknown command - \CurrentOption		 in line: 678
+WARNING: Unknown complex command - \DeclareOption		 in line: 678
+WARNING: Unknown command - \relax		 in line: 680
+
+WARNING: Unknown complex command - \NeedsTeXFormat			ALAH				LaTeX2e		 in line: 698
+WARNING: Unknown complex command - \ProvidesClass			ALAH				minimal		 in line: 699
+WARNING: Unknown complex command - \renewcommand		 in line: 700
+WARNING: Unknown command - \fontsize		 in line: 700
+WARNING: Unknown command - \selectfont		 in line: 701
+WARNING: Unknown complex command - \setlength		 in line: 701
+WARNING: Unknown complex command - \setlength		 in line: 702
+WARNING: Unknown complex command - \NeedsTeXFormat			ALAH				LaTeX2e		 in line: 718
+WARNING: Unknown complex command - \ProvidesClass			ALAH				neplet		 in line: 719
+WARNING: Unknown command - \PassOptionsToClass		 in line: 724
+WARNING: Unknown command - \CurrentOption		 in line: 724
+WARNING: Unknown complex command - \DeclareOption		 in line: 724
+WARNING: Unknown command - \relax		 in line: 726
+WARNING: Unknown command - \ps		 in line: 732
+WARNING: Unknown complex command - \renewcommand		 in line: 732
+
+WARNING: Unknown complex command - \renewcommand			ALAH				oddfoot		 in line: 733
+WARNING: Unknown complex command - \NeedsTeXFormat			ALAH				LaTeX2e		 in line: 744
+WARNING: Unknown complex command - \ProvidesClass			ALAH				smplnews		 in line: 745
+ IN VECTOR - COMMANDS ---\headlinecolor
+ PROVERIT' IN COMMANDS ---\normalcolor
+WARNING: Unknown complex command - \DeclareOption			ALAH				onecolumn		 in line: 753
+WARNING: Unknown command - \OptionNotUsed		 in line: 753
+WARNING: Unknown complex command - \DeclareOption			ALAH				green		 in line: 754
+WARNING: Unknown command - \headlinecolor		 in line: 754
+WARNING: Unknown command - \color		 in line: 754
+WARNING: Unknown command - \PassOptionsToClass		 in line: 756
+WARNING: Unknown command - \CurrentOption		 in line: 756
+WARNING: Unknown complex command - \DeclareOption		 in line: 756
+WARNING: Unknown command - \relax		 in line: 759
+WARNING: Unknown complex command - \RequirePackage			ALAH				color		 in line: 768
+WARNING: Unknown complex command - \renewcommand		 in line: 773
+
+WARNING: Unknown command - \twocolumn		 in line: 773
+
+WARNING: Unknown command - \fontsize		 in line: 773
+WARNING: Unknown complex command - \fontfamily			ALAH				phv		 in line: 773
+WARNING: Unknown complex command - \fontseries			ALAH				b		 in line: 773
+WARNING: Unknown complex command - \fontshape			ALAH				sl		 in line: 774
+WARNING: Unknown command - \selectfont		 in line: 774
+WARNING: Unknown command - \headlinecolor		 in line: 778
+WARNING: Unknown complex command - \renewcommand		 in line: 781
+
+
+WARNING: Unknown command - \headlinecolor		 in line: 782
+WARNING: Unknown complex command - \renewcommand		 in line: 789
+WARNING: Unknown command - \fontsize		 in line: 789
+WARNING: Unknown command - \selectfont		 in line: 790
+WARNING: Unknown complex command - \setlength		 in line: 790
+WARNING: Unknown complex command - \setlength		 in line: 791
+WARNING: Unknown command - \NeedsTeXFormat		 in line: 812
+WARNING: Unknown complex command - \arg			ALAH				format-name		 in line: 812
+WARNING: Unknown complex command - \m			ALAH				format-name		 in line: 815
+WARNING: Unknown complex command - \m			ALAH				format-name		 in line: 819
+WARNING: Unknown complex command - \NeedsTeXFormat			ALAH				LaTeX2e		 in line: 824
+WARNING: Unknown command - \ProvidesClass		 in line: 828
+WARNING: Unknown complex command - \oarg			ALAH				release-info		 in line: 828
+WARNING: Unknown complex command - \oarg			ALAH				release-info		 in line: 829
+WARNING: Unknown complex command - \m			ALAH				release-info		 in line: 834
+WARNING: Unknown complex command - \m			ALAH				release-info		 in line: 846
+WARNING: Unknown complex command - \ProvidesClass			ALAH				article		 in line: 851
+WARNING: Unknown complex command - \ProvidesPackage			ALAH				ifthen		 in line: 852
+WARNING: Unknown command - \ProvidesFile		 in line: 856
+WARNING: Unknown complex command - \oarg			ALAH				release-info		 in line: 856
+WARNING: Unknown complex command - \ProvidesFile		 in line: 864
+WARNING: Unknown complex command - \oarg			ALAH				options-list		 in line: 878
+WARNING: Unknown complex command - \oarg			ALAH				release-info		 in line: 879
+WARNING: Unknown complex command - \oarg			ALAH				release-info		 in line: 881
+WARNING: Unknown complex command - \RequirePackage			ALAH				ifthen		 in line: 890
+WARNING: Unknown complex command - \RequirePackageWithOptions			ALAH				graphics		 in line: 891
+WARNING: Unknown complex command - \oarg			ALAH				options-list		 in line: 895
+WARNING: Unknown complex command - \oarg			ALAH				release-info		 in line: 896
+WARNING: Unknown complex command - \oarg			ALAH				release-info		 in line: 898
+WARNING: Unknown complex command - \LoadClass			ALAH				article		 in line: 910
+WARNING: Unknown complex command - \m			ALAH				code		 in line: 930
+WARNING: Unknown complex command - \arg			ALAH				option-name		 in line: 933
+WARNING: Unknown complex command - \m			ALAH				option-name		 in line: 935
+WARNING: Unknown complex command - \m			ALAH				code		 in line: 938
+WARNING: Unknown complex command - \DeclareOption			ALAH				twoside		 in line: 944
+WARNING: Unknown complex command - \m			ALAH				code		 in line: 950
+WARNING: Unknown complex command - \m			ALAH				code		 in line: 967
+WARNING: Unknown command - \CurrentOption		 in line: 973
+WARNING: Unknown command - \OptionNotUsed		 in line: 978
+WARNING: Unknown complex command - \m			ALAH				code		 in line: 983
+WARNING: Unknown complex command - \m			ALAH				code		 in line: 990
+WARNING: Unknown command - \PassOptionsToPackage		 in line: 993
+WARNING: Unknown complex command - \arg			ALAH				options-list		 in line: 993
+WARNING: Unknown command - \PassOptionsToClass		 in line: 994
+WARNING: Unknown complex command - \arg			ALAH				options-list		 in line: 994
+WARNING: Unknown command - \PassOptionsToPackage		 in line: 997
+WARNING: Unknown complex command - \m			ALAH				options-list		 in line: 997
+WARNING: Unknown complex command - \PassOptionsToPackage		 in line: 1004
+WARNING: Unknown command - \PassOptionsToClass		 in line: 1013
+WARNING: Unknown command - \PassOptionsToPackage		 in line: 1028
+WARNING: Unknown command - \PassOptionsToClass		 in line: 1035
+WARNING: Unknown command - \CurrentOption		 in line: 1035
+WARNING: Unknown complex command - \DeclareOption		 in line: 1035
+WARNING: Unknown command - \relax		 in line: 1037
+WARNING: Unknown complex command - \LoadClass			ALAH				article		 in line: 1037
+WARNING: Unknown complex command - \DeclareOption			ALAH				landscape		 in line: 1046
+WARNING: Unknown command - \relax		 in line: 1048
+WARNING: Unknown complex command - \DeclareOption			ALAH				landscape		 in line: 1052
+WARNING: Unknown command - \PassOptionsToClass		 in line: 1053
+WARNING: Unknown command - \CurrentOption		 in line: 1053
+WARNING: Unknown complex command - \DeclareOption		 in line: 1053
+WARNING: Unknown command - \relax		 in line: 1055
+WARNING: Unknown complex command - \LoadClass			ALAH				article		 in line: 1055
+WARNING: Unknown complex command - \m			ALAH				code		 in line: 1069
+WARNING: Unknown command - \AtEndOfClass		 in line: 1072
+WARNING: Unknown command - \AtEndOfPackage		 in line: 1073
+WARNING: Unknown complex command - \m			ALAH				code		 in line: 1075
+WARNING: Unknown command - \AtBeginDocument		 in line: 1084
+WARNING: Unknown command - \AtEndDocument		 in line: 1085
+WARNING: Unknown complex command - \m			ALAH				code		 in line: 1087
+syntax error		 in line: 1090
+cyrguide.tex
+---------------------------------------------------------------
+
+WARNING: Unknown command - \babel		 in line: 47
+WARNING: Unknown command - \eg		 in line: 64
+WARNING: Unknown command - \eg		 in line: 128
+WARNING: Unknown complex command - \URL		 in line: 128
+WARNING: Unknown command - \babel		 in line: 146
+WARNING: Unknown command - \babel		 in line: 149
+WARNING: Unknown command - \babel		 in line: 152
+WARNING: Unknown command - \babel		 in line: 160
+WARNING: Unknown complex command - \URL		 in line: 166
+WARNING: Unknown command - \babel		 in line: 171
+WARNING: Unknown command - \fontencoding		 in line: 195
+WARNING: Unknown command - \babel		 in line: 195
+WARNING: Unknown command - \inputencoding		 in line: 224
+WARNING: Unknown command - \MakeLowercase		 in line: 226
+WARNING: Unknown command - \uppercase		 in line: 227
+WARNING: Unknown command - \lowercase		 in line: 229
+WARNING: Unknown command - \babel		 in line: 289
+WARNING: Unknown command - \ae		 in line: 376
+WARNING: Unknown command - \DeclareTextSymbol		 in line: 380
+WARNING: Unknown complex command - \URL		 in line: 393
+WARNING: Unknown complex command - \URL		 in line: 394
+Succes 
+encguide.tex
+---------------------------------------------------------------
+WARNING: Unknown usepackage arguments - textcomp					{}		 in line: 37
+WARNING: Unknown usepackage arguments - mflogo					{}		 in line: 39
+WARNING: Unknown usepackage arguments - tabularx					{}		 in line: 40
+WARNING: Unknown global command - \addtolength		 in line: 42
+WARNING: Unknown global command - \textheight		 in line: 43
+WARNING: Unknown global command - \addtolength		 in line: 43
+WARNING: Unknown global command - \topmargin		 in line: 63
+syntax error		 in line: 63
+fntguide.tex
+---------------------------------------------------------------
+WARNING: Unknown usepackage arguments - varioref					{}		 in line: 36
+LEX ERRROR38
+LEX ERRROR38
+LEX ERRROR38
+LEX ERRROR38
+LEX ERRROR38
+LEX ERRROR38
+LEX ERRROR38
+LEX ERRROR38
+LEX ERRROR38
+LEX ERRROR38
+LEX ERRROR38
+
+WARNING: Unknown command - \thanks		 in line: 40
+
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+LEX ERRROR41
+WARNING: Unknown command - \AE		 in line: 105
+
+WARNING: Unknown command - \cfgguide		 in line: 146
+WARNING: Unknown command - \modguide		 in line: 147
+WARNING: Unknown command - \qquad		 in line: 251
+WARNING: Unknown complex command - \multicolumn			ALAH				5		 in line: 321
+WARNING: Unknown command - \OT		 in line: 341
+WARNING: Unknown complex command - \hspace			ALAH				-1em		 in line: 345
+WARNING: Unknown command - \textssc		 in line: 360
+WARNING: Unknown command - \sscshape		 in line: 361
+WARNING: Unknown command - \textsw		 in line: 361
+WARNING: Unknown command - \swshape		 in line: 362
+WARNING: Unknown command - \textulc		 in line: 362
+WARNING: Unknown command - \ulcshape		 in line: 362
+WARNING: Unknown MATH command - \to		 in line: 362
+WARNING: Unknown MATH command - \to		 in line: 363
+WARNING: Unknown command - \tiny		 in line: 365
+WARNING: Unknown command - \scriptsize		 in line: 366
+WARNING: Unknown command - \footnotesize		 in line: 367
+WARNING: Unknown command - \LARGE		 in line: 372
+WARNING: Unknown command - \huge		 in line: 373
+WARNING: Unknown command - \Huge		 in line: 374
+WARNING: Unknown command - \fontencoding		 in line: 391
+WARNING: Unknown complex command - \arg			ALAH				encoding		 in line: 391
+WARNING: Unknown command - \fontfamily		 in line: 392
+WARNING: Unknown complex command - \arg			ALAH				family		 in line: 392
+WARNING: Unknown command - \fontseries		 in line: 393
+WARNING: Unknown complex command - \arg			ALAH				series		 in line: 393
+WARNING: Unknown command - \fontshape		 in line: 394
+WARNING: Unknown complex command - \arg			ALAH				shape		 in line: 394
+WARNING: Unknown command - \fontsize		 in line: 395
+WARNING: Unknown complex command - \arg			ALAH				baselineskip		 in line: 395
+WARNING: Unknown command - \linespread		 in line: 396
+WARNING: Unknown complex command - \arg			ALAH				factor		 in line: 396
+WARNING: Unknown command - \font		 in line: 401
+WARNING: Unknown command - \fontsize		 in line: 401
+WARNING: Unknown command - \linespread		 in line: 403
+WARNING: Unknown complex command - \m			ALAH				factor		 in line: 403
+WARNING: Unknown command - \selectfont		 in line: 410
+WARNING: Unknown command - \selectfont		 in line: 412
+WARNING: Unknown command - \selectfont		 in line: 418
+WARNING: Unknown complex command - \fontfamily			ALAH				ptm		 in line: 419
+WARNING: Unknown complex command - \fontseries			ALAH				b		 in line: 419
+WARNING: Unknown command - \selectfont		 in line: 420
+WARNING: Unknown complex command - \fontfamily			ALAH				ptm		 in line: 423
+WARNING: Unknown complex command - \fontseries			ALAH				b		 in line: 423
+WARNING: Unknown command - \selectfont		 in line: 424
+WARNING: Unknown command - \font		 in line: 426
+WARNING: Unknown command - \linespread		 in line: 426
+WARNING: Unknown command - \selectfont		 in line: 428
+WARNING: Unknown command - \usefont		 in line: 429
+WARNING: Unknown complex command - \arg			ALAH				encoding		 in line: 429
+WARNING: Unknown complex command - \arg			ALAH				family		 in line: 429
+WARNING: Unknown complex command - \arg			ALAH				series		 in line: 429
+WARNING: Unknown complex command - \arg			ALAH				shape		 in line: 429
+WARNING: Unknown command - \font		 in line: 432
+WARNING: Unknown command - \selectfont		 in line: 434
+WARNING: Unknown command - \f		 in line: 440
+WARNING: Unknown command - \f		 in line: 441
+WARNING: Unknown command - \f		 in line: 442
+WARNING: Unknown command - \f		 in line: 443
+WARNING: Unknown command - \f		 in line: 444
+WARNING: Unknown command - \f		 in line: 445
+WARNING: Unknown command - \tf		 in line: 446
+WARNING: Unknown command - \sf		 in line: 447
+WARNING: Unknown command - \ssf		 in line: 448
+WARNING: Unknown complex command - \fontsize			ALAH				12		 in line: 458
+WARNING: Unknown command - \f		 in line: 458
+WARNING: Unknown command - \fontfamily		 in line: 462
+WARNING: Unknown command - \fontseries		 in line: 465
+WARNING: Unknown command - \rmdefault		 in line: 472
+WARNING: Unknown command - \rmdefault		 in line: 476
+WARNING: Unknown complex command - \renewcommand		 in line: 476
+WARNING: Unknown command - \sfdefault		 in line: 477
+WARNING: Unknown complex command - \renewcommand		 in line: 477
+WARNING: Unknown command - \ttdefault		 in line: 478
+WARNING: Unknown complex command - \renewcommand		 in line: 478
+WARNING: Unknown command - \encodingdefault		 in line: 483
+WARNING: Unknown command - \familydefault		 in line: 484
+WARNING: Unknown command - \seriesdefault		 in line: 485
+WARNING: Unknown command - \shapedefault		 in line: 486
+WARNING: Unknown command - \rmdefault		 in line: 489
+WARNING: Unknown command - \rmdefault		 in line: 489
+WARNING: Unknown command - \rmdefault		 in line: 492
+WARNING: Unknown command - \rmdefault		 in line: 494
+WARNING: Unknown command - \sfdefault		 in line: 495
+WARNING: Unknown command - \ttdefault		 in line: 496
+WARNING: Unknown command - \bfdefault		 in line: 503
+WARNING: Unknown command - \mddefault		 in line: 504
+WARNING: Unknown command - \bfdefault		 in line: 512
+WARNING: Unknown command - \DeclareFontShape		 in line: 513
+WARNING: Unknown command - \itdefault		 in line: 517
+WARNING: Unknown command - \sldefault		 in line: 518
+WARNING: Unknown command - \scdefault		 in line: 519
+WARNING: Unknown command - \sscdefault		 in line: 520
+WARNING: Unknown command - \swdefault		 in line: 521
+WARNING: Unknown command - \ulcdefault		 in line: 522
+WARNING: Unknown command - \updefault		 in line: 523
+WARNING: Unknown command - \textssc		 in line: 526
+WARNING: Unknown command - \sscshape		 in line: 526
+WARNING: Unknown command - \textsw		 in line: 526
+WARNING: Unknown command - \swshape		 in line: 527
+WARNING: Unknown command - \textulc		 in line: 527
+WARNING: Unknown command - \ulcshape		 in line: 527
+WARNING: Unknown command - \textulc		 in line: 531
+WARNING: Unknown command - \ulcshape		 in line: 533
+WARNING: Unknown command - \normalshape		 in line: 537
+WARNING: Unknown command - \ulcshape		 in line: 541
+WARNING: Unknown complex command - \renewcommand		 in line: 542
+WARNING: Unknown command - \fontsize		 in line: 542
+WARNING: Unknown command - \selectfont		 in line: 543
+WARNING: Unknown command - \DeclareFixedFont		 in line: 551
+WARNING: Unknown complex command - \arg			ALAH				encoding		 in line: 551
+WARNING: Unknown complex command - \arg			ALAH				family		 in line: 551
+WARNING: Unknown complex command - \arg			ALAH				series		 in line: 551
+WARNING: Unknown complex command - \arg			ALAH				shape		 in line: 552
+WARNING: Unknown complex command - \m			ALAH				encoding		 in line: 556
+WARNING: Unknown complex command - \m			ALAH				family		 in line: 556
+WARNING: Unknown complex command - \m			ALAH				series		 in line: 556
+WARNING: Unknown complex command - \m			ALAH				shape		 in line: 557
+WARNING: Unknown command - \picturechar		 in line: 562
+WARNING: Unknown command - \picturechar		 in line: 564
+WARNING: Unknown complex command - \DeclareFixedFont		 in line: 564
+WARNING: Unknown command - \DeclareTextFontCommand		 in line: 568
+WARNING: Unknown complex command - \arg			ALAH				font-switches		 in line: 568
+WARNING: Unknown complex command - \m			ALAH				font-switches		 in line: 572
+WARNING: Unknown command - \DeclareTextFontCommand		 in line: 578
+WARNING: Unknown complex command - \DeclareTextFontCommand		 in line: 580
+WARNING: Unknown command - \normalit		 in line: 586
+WARNING: Unknown complex command - \DeclareTextFontCommand		 in line: 586
+WARNING: Unknown command - \DeclareOldFontCommand		 in line: 594
+WARNING: Unknown complex command - \arg			ALAH				text-switch		 in line: 594
+WARNING: Unknown complex command - \arg			ALAH				math-switch		 in line: 595
+WARNING: Unknown complex command - \m			ALAH				text-switch		 in line: 599
+WARNING: Unknown complex command - \m			ALAH				math-switch		 in line: 600
+WARNING: Unknown complex command - \m			ALAH				math-switch		 in line: 602
+WARNING: Unknown command - \it		 in line: 613
+WARNING: Unknown command - \it		 in line: 616
+WARNING: Unknown complex command - \DeclareOldFontCommand		 in line: 616
+WARNING: Unknown complex command - \mathsf			ALAH				max		 in line: 636
+WARNING: Unknown complex command - \mathbf			ALAH				vec		 in line: 636
+
+WARNING: Unknown command - \mathalpha		 in line: 638
+WARNING: Unknown MATH command - \mathrm		 in line: 644
+WARNING: Unknown MATH command - \mathsf		 in line: 646
+WARNING: Unknown MATH command - \mathit		 in line: 647
+WARNING: Unknown MATH command - \mathtt		 in line: 648
+WARNING: Unknown MATH command - \mathcal		 in line: 649
+WARNING: Unknown command - \oplus		 in line: 653
+WARNING: Unknown MATH command - \oplus		 in line: 653
+WARNING: Unknown MATH command - \star		 in line: 660
+WARNING: Unknown MATH command - \sum		 in line: 662
+WARNING: Unknown MATH command - \prod		 in line: 662
+WARNING: Unknown MATH command - \int		 in line: 662
+
+WARNING: Unknown complex command - \multicolumn			ALAH				2		 in line: 675
+WARNING: Unknown complex command - \multicolumn			ALAH				4		 in line: 676
+WARNING: Unknown complex command - \multicolumn			ALAH				4		 in line: 678
+WARNING: Unknown command - \oplus		 in line: 709
+WARNING: Unknown complex command - \mathnormal			ALAH				math		 in line: 712
+WARNING: Unknown complex command - \mathcal			ALAH				math		 in line: 713
+WARNING: Unknown complex command - \mathrm			ALAH				math		 in line: 714
+WARNING: Unknown complex command - \mathbf			ALAH				math		 in line: 715
+WARNING: Unknown complex command - \mathsf			ALAH				math		 in line: 716
+WARNING: Unknown complex command - \mathit			ALAH				math		 in line: 717
+WARNING: Unknown complex command - \mathtt			ALAH				math		 in line: 718
+WARNING: Unknown MATH command - \mathsf		 in line: 721
+WARNING: Unknown MATH command - \mathcal		 in line: 721
+WARNING: Unknown MATH command - \mathsf		 in line: 722
+WARNING: Unknown MATH command - \mathcal		 in line: 722
+WARNING: Unknown complex command - \mathversion			ALAH				version		 in line: 725
+WARNING: Unknown complex command - \mathversion			ALAH				bold		 in line: 728
+WARNING: Unknown command - \DeclareMathVersion		 in line: 733
+WARNING: Unknown complex command - \arg			ALAH				version		 in line: 733
+WARNING: Unknown complex command - \m			ALAH				version		 in line: 736
+WARNING: Unknown command - \DeclareSymbolFont		 in line: 740
+WARNING: Unknown command - \SetSymbolFont		 in line: 744
+WARNING: Unknown command - \SetMathAlphabet		 in line: 749
+WARNING: Unknown complex command - \DeclareMathVersion			ALAH				normal		 in line: 750
+WARNING: Unknown complex command - \arg			ALAH				math-alph		 in line: 756
+WARNING: Unknown complex command - \arg			ALAH				encoding		 in line: 756
+WARNING: Unknown complex command - \arg			ALAH				family		 in line: 756
+WARNING: Unknown complex command - \arg			ALAH				series		 in line: 757
+WARNING: Unknown complex command - \arg			ALAH				shape		 in line: 757
+WARNING: Unknown complex command - \m			ALAH				math-alph		 in line: 761
+WARNING: Unknown complex command - \m			ALAH				encoding		 in line: 764
+WARNING: Unknown complex command - \m			ALAH				family		 in line: 764
+WARNING: Unknown complex command - \m			ALAH				series		 in line: 764
+WARNING: Unknown complex command - \m			ALAH				shape		 in line: 764
+WARNING: Unknown command - \SetMathAlphabet		 in line: 769
+WARNING: Unknown complex command - \m			ALAH				shape		 in line: 769
+WARNING: Unknown complex command - \m			ALAH				math-alph		 in line: 769
+WARNING: Unknown command - \SetMathAlphabet		 in line: 773
+WARNING: Unknown complex command - \m			ALAH				math-alph		 in line: 773
+WARNING: Unknown complex command - \m			ALAH				encoding		 in line: 774
+WARNING: Unknown command - \baz		 in line: 779
+WARNING: Unknown complex command - \DeclareMathAlphabet		 in line: 780
+WARNING: Unknown command - \baz		 in line: 781
+WARNING: Unknown complex command - \DeclareMathAlphabet		 in line: 781
+WARNING: Unknown command - \SetMathAlphabet		 in line: 786
+WARNING: Unknown complex command - \arg			ALAH				math-alph		 in line: 786
+WARNING: Unknown complex command - \arg			ALAH				version		 in line: 786
+WARNING: Unknown command - \null		 in line: 787
+WARNING: Unknown command - \hfill		 in line: 787
+WARNING: Unknown complex command - \arg			ALAH				encoding		 in line: 787
+WARNING: Unknown complex command - \arg			ALAH				family		 in line: 787
+WARNING: Unknown complex command - \arg			ALAH				series		 in line: 787
+WARNING: Unknown complex command - \arg			ALAH				shape		 in line: 787
+WARNING: Unknown complex command - \m			ALAH				math-alph		 in line: 790
+WARNING: Unknown complex command - \m			ALAH				version		 in line: 791
+WARNING: Unknown complex command - \m			ALAH				encoding		 in line: 791
+WARNING: Unknown complex command - \m			ALAH				family		 in line: 791
+WARNING: Unknown complex command - \m			ALAH				series		 in line: 791
+WARNING: Unknown complex command - \m			ALAH				shape		 in line: 791
+WARNING: Unknown complex command - \m			ALAH				math-alph		 in line: 793
+WARNING: Unknown complex command - \m			ALAH				version		 in line: 794
+WARNING: Unknown complex command - \m			ALAH				encoding		 in line: 794
+WARNING: Unknown command - \baz		 in line: 798
+WARNING: Unknown command - \baz		 in line: 799
+WARNING: Unknown complex command - \SetMathAlphabet		 in line: 799
+WARNING: Unknown command - \DeclareSymbolFontAlphabet		 in line: 807
+WARNING: Unknown command - \DeclareSymbolFont		 in line: 811
+WARNING: Unknown complex command - \arg			ALAH				sym-font		 in line: 811
+WARNING: Unknown complex command - \arg			ALAH				encoding		 in line: 811
+WARNING: Unknown complex command - \arg			ALAH				family		 in line: 811
+WARNING: Unknown complex command - \arg			ALAH				series		 in line: 812
+WARNING: Unknown complex command - \arg			ALAH				shape		 in line: 812
+WARNING: Unknown complex command - \m			ALAH				sym-font		 in line: 816
+WARNING: Unknown complex command - \m			ALAH				encoding		 in line: 820
+WARNING: Unknown complex command - \m			ALAH				family		 in line: 820
+WARNING: Unknown complex command - \m			ALAH				series		 in line: 820
+WARNING: Unknown complex command - \m			ALAH				shape		 in line: 820
+WARNING: Unknown command - \SetSymbolFont		 in line: 825
+WARNING: Unknown complex command - \m			ALAH				encoding		 in line: 825
+WARNING: Unknown complex command - \DeclareSymbolFont			ALAH				operators		 in line: 830
+WARNING: Unknown complex command - \DeclareSymbolFont			ALAH				letters		 in line: 831
+WARNING: Unknown complex command - \DeclareSymbolFont			ALAH				symbols		 in line: 832
+WARNING: Unknown complex command - \DeclareSymbolFont			ALAH				largesymbols		 in line: 833
+WARNING: Unknown command - \SetSymbolFont		 in line: 837
+WARNING: Unknown complex command - \arg			ALAH				sym-font		 in line: 837
+WARNING: Unknown complex command - \arg			ALAH				version		 in line: 837
+WARNING: Unknown command - \null		 in line: 838
+WARNING: Unknown command - \hfill		 in line: 838
+WARNING: Unknown complex command - \arg			ALAH				encoding		 in line: 838
+WARNING: Unknown complex command - \arg			ALAH				family		 in line: 838
+WARNING: Unknown complex command - \arg			ALAH				series		 in line: 838
+WARNING: Unknown complex command - \arg			ALAH				shape		 in line: 838
+WARNING: Unknown complex command - \m			ALAH				sym-font		 in line: 841
+WARNING: Unknown complex command - \m			ALAH				version		 in line: 841
+WARNING: Unknown complex command - \m			ALAH				encoding		 in line: 842
+WARNING: Unknown complex command - \m			ALAH				family		 in line: 842
+WARNING: Unknown complex command - \m			ALAH				series		 in line: 842
+WARNING: Unknown complex command - \m			ALAH				shape		 in line: 842
+WARNING: Unknown complex command - \m			ALAH				sym-font		 in line: 844
+WARNING: Unknown complex command - \m			ALAH				version		 in line: 844
+WARNING: Unknown complex command - \m			ALAH				encoding		 in line: 845
+WARNING: Unknown complex command - \SetSymbolFont			ALAH				operators		 in line: 850
+WARNING: Unknown complex command - \SetSymbolFont			ALAH				letters		 in line: 851
+WARNING: Unknown command - \DeclareSymbolFontAlphabet		 in line: 856
+WARNING: Unknown complex command - \arg			ALAH				math-alph		 in line: 856
+WARNING: Unknown complex command - \arg			ALAH				sym-font		 in line: 856
+WARNING: Unknown complex command - \m			ALAH				sym-font		 in line: 860
+WARNING: Unknown complex command - \m			ALAH				math-alph		 in line: 861
+WARNING: Unknown complex command - \m			ALAH				math-alph		 in line: 863
+WARNING: Unknown complex command - \m			ALAH				sym-font		 in line: 864
+WARNING: Unknown complex command - \DeclareSymbolFontAlphabet		 in line: 868
+WARNING: Unknown complex command - \DeclareSymbolFontAlphabet		 in line: 869
+WARNING: Unknown command - \SetMathAlphabet		 in line: 875
+WARNING: Unknown complex command - \arg			ALAH				symbol		 in line: 886
+WARNING: Unknown complex command - \arg			ALAH				type		 in line: 886
+WARNING: Unknown complex command - \arg			ALAH				sym-font		 in line: 886
+WARNING: Unknown complex command - \arg			ALAH				slot		 in line: 887
+WARNING: Unknown complex command - \m			ALAH				symbol		 in line: 890
+WARNING: Unknown command - \sum		 in line: 893
+WARNING: Unknown complex command - \m			ALAH				symbol		 in line: 893
+WARNING: Unknown complex command - \m			ALAH				type		 in line: 893
+WARNING: Unknown complex command - \m			ALAH				slot		 in line: 894
+WARNING: Unknown complex command - \m			ALAH				sym-font		 in line: 894
+WARNING: Unknown complex command - \m			ALAH				type		 in line: 894
+WARNING: Unknown command - \mathord		 in line: 899
+WARNING: Unknown MATH command - \alpha		 in line: 899
+WARNING: Unknown command - \mathop		 in line: 900
+WARNING: Unknown MATH command - \sum		 in line: 900
+WARNING: Unknown command - \mathbin		 in line: 901
+WARNING: Unknown command - \mathrel		 in line: 902
+WARNING: Unknown command - \mathopen		 in line: 903
+WARNING: Unknown command - \mathclose		 in line: 904
+WARNING: Unknown command - \mathpunct		 in line: 906
+WARNING: Unknown command - \mathalpha		 in line: 907
+WARNING: Unknown command - \mathalpha		 in line: 911
+WARNING: Unknown complex command - \m			ALAH				slot		 in line: 911
+WARNING: Unknown complex command - \m			ALAH				symbol		 in line: 915
+WARNING: Unknown complex command - \m			ALAH				sym-font		 in line: 917
+WARNING: Unknown command - \alpha		 in line: 921
+WARNING: Unknown complex command - \DeclareMathSymbol		 in line: 921
+WARNING: Unknown command - \lessdot		 in line: 922
+WARNING: Unknown complex command - \DeclareMathSymbol		 in line: 922
+WARNING: Unknown command - \mathbin		 in line: 922
+WARNING: Unknown command - \alphld		 in line: 923
+WARNING: Unknown complex command - \DeclareMathSymbol		 in line: 923
+WARNING: Unknown command - \mathalpha		 in line: 923
+WARNING: Unknown complex command - \arg			ALAH				type		 in line: 927
+WARNING: Unknown complex command - \arg			ALAH				sym-font-1		 in line: 928
+WARNING: Unknown complex command - \arg			ALAH				slot-1		 in line: 928
+WARNING: Unknown command - \null		 in line: 929
+WARNING: Unknown command - \hfill		 in line: 929
+WARNING: Unknown complex command - \arg			ALAH				sym-font-2		 in line: 929
+WARNING: Unknown complex command - \arg			ALAH				slot-2		 in line: 929
+WARNING: Unknown complex command - \m			ALAH				slot-1		 in line: 932
+WARNING: Unknown complex command - \m			ALAH				sym-font-1		 in line: 932
+WARNING: Unknown complex command - \m			ALAH				slot-2		 in line: 933
+WARNING: Unknown complex command - \m			ALAH				sym-font-2		 in line: 933
+WARNING: Unknown complex command - \m			ALAH				sym-font-i		 in line: 936
+WARNING: Unknown complex command - \m			ALAH				type		 in line: 939
+WARNING: Unknown complex command - \m			ALAH				sym-font-1		 in line: 940
+WARNING: Unknown complex command - \m			ALAH				slot-1		 in line: 940
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WARNING: Unknown complex command - \end			lolkek				decl		 in line: 945
+idx.tex
+---------------------------------------------------------------
+WARNING: Unknown command - \evensidemargin		 in line: 39
+WARNING: Unknown command - \columnsep		 in line: 41
+WARNING: Unknown global command - \raggedright		 in line: 47
+
+
+WARNING: Unknown global command - \isanitize		 in line: 51
+WARNING: Unknown command - \par		 in line: 51
+WARNING: Unknown command - \begingroup		 in line: 51
+WARNING: Unknown command - \isanitize		 in line: 51
+WARNING: Unknown command - \idxentry		 in line: 51
+WARNING: Unknown global command - \indexentry		 in line: 53
+LEX ERRROR53
+LEX ERRROR53
+LEX ERRROR53
+LEX ERRROR53
+WARNING: Unknown global command - \idxentry		 in line: 53
+WARNING: Unknown global command - \foo		 in line: 53
+WARNING: Unknown global command - \thispage		 in line: 54
+WARNING: Unknown global command - \gdef		 in line: 54
+LEX ERRROR55
+LEX ERRROR55
+LEX ERRROR55
+WARNING: Unknown command - \par		 in line: 55
+WARNING: Unknown command - \vskip		 in line: 55
+WARNING: Unknown global command - \vskip		 in line: 55
+WARNING: Unknown global command - \fi		 in line: 56
+LEX ERRROR56
+LEX ERRROR56
+LEX ERRROR56
+LEX ERRROR56
+WARNING: Unknown global command - \hangindent		 in line: 56
+LEX ERRROR56
+LEX ERRROR56
+WARNING: Unknown global command - \ttfamily		 in line: 56
+WARNING: Unknown global command - \par		 in line: 56
+WARNING: Unknown global command - \endgroup		 in line: 58
+WARNING: Unknown command - \parindent		 in line: 58
+WARNING: Unknown command - \parskip		 in line: 59
+LEX ERRROR61
+LEX ERRROR61
+LEX ERRROR61
+LEX ERRROR61
+LEX ERRROR61
+LEX ERRROR61
+WARNING: Unknown global command - \tolerance		 in line: 65
+WARNING: Unknown command - \foobar		 in line: 65
+WARNING: Unknown global command - \newsavebox		 in line: 66
+WARNING: Unknown command - \foobar		 in line: 66
+WARNING: Unknown global command - \relax		 in line: 68
+WARNING: Unknown global command - \expandafter		 in line: 68
+WARNING: Unknown global command - \fontdimen		 in line: 68
+LEX ERRROR68
+WARNING: Unknown global command - \expandafter		 in line: 68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+WARNING: Unknown global command - \csname		 in line: 68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+LEX ERRROR68
+WARNING: Unknown global command - \endcsname		 in line: 69
+WARNING: Unknown global command - \expandafter		 in line: 69
+WARNING: Unknown global command - \fontdimen		 in line: 69
+LEX ERRROR69
+WARNING: Unknown global command - \expandafter		 in line: 69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+WARNING: Unknown global command - \csname		 in line: 69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+LEX ERRROR69
+WARNING: Unknown global command - \endcsname		 in line: 71
+WARNING: Unknown complex command - \typeout		 in line: 74
+WARNING: Unknown complex command - \typeout		 in line: 77
+WARNING: Unknown command - \twocolumn		 in line: 80
+
+WARNING: Unknown command - \dimen		 in line: 82
+WARNING: Unknown command - \advance		 in line: 83
+WARNING: Unknown command - \dimen		 in line: 85
+WARNING: Unknown command - \parshape		 in line: 85
+WARNING: Unknown command - \dimen		 in line: 87
+WARNING: Unknown command - \filename		 in line: 87
+WARNING: Unknown command - \relax		 in line: 89
+Succes 
+lablst.tex
+---------------------------------------------------------------
+WARNING: Unknown usepackage arguments - lablstpackages					{}		 in line: 52
+LEX ERRROR55
+LEX ERRROR55
+LEX ERRROR55
+WARNING: Unknown global command - \parindent		 in line: 57
+WARNING: Unknown command - \LARGE		 in line: 63
+WARNING: Unknown command - \lablstfile		 in line: 63
+WARNING: Unknown command - \today		 in line: 64
+
+
+WARNING: Unknown command - \lablstclass		 in line: 64
+
+WARNING: Unknown command - \phantom		 in line: 64
+WARNING: Unknown command - \lablstpackages		 in line: 67
+WARNING: Unknown command - \protect		 in line: 77
+WARNING: Unknown command - \relax		 in line: 81
+WARNING: Unknown command - \relax		 in line: 85
+
+WARNING: Unknown command - \lablst		 in line: 85
+WARNING: Unknown complex command - \lablst			ALAH				toc		 in line: 86
+WARNING: Unknown command - \lablst		 in line: 87
+WARNING: Unknown command - \lablst		 in line: 88
+WARNING: Unknown complex command - \par			ALAH				2		 in line: 88
+WARNING: Unknown command - \par		 in line: 88
+WARNING: Unknown command - \nobreak		 in line: 89
+
+WARNING: Unknown command - \lablst		 in line: 95
+WARNING: Unknown command - \expandafter		 in line: 96
+WARNING: Unknown command - \strip		 in line: 96
+WARNING: Unknown command - \meaning		 in line: 96
+WARNING: Unknown command - \lablst		 in line: 96
+
+WARNING: Unknown command - \par		 in line: 101
+
+
+WARNING: Unknown command - \hfill		 in line: 101
+WARNING: Unknown complex command - \newlabel		 in line: 101
+WARNING: Unknown complex command - \hspace			ALAH				1em		 in line: 102
+WARNING: Unknown command - \par		 in line: 108
+WARNING: Unknown command - \sl		 in line: 110
+WARNING: Unknown complex command - \bibcite		 in line: 110
+WARNING: Unknown command - \lablstfile		 in line: 117
+WARNING: Unknown command - \par		 in line: 117
+
+
+WARNING: Unknown command - \hfill		 in line: 117
+WARNING: Unknown complex command - \bibcite		 in line: 117
+WARNING: Unknown complex command - \hspace			ALAH				1em		 in line: 117
+WARNING: Unknown command - \newlabel		 in line: 120
+WARNING: Unknown command - \par		 in line: 123
+WARNING: Unknown command - \sl		 in line: 125
+WARNING: Unknown command - \lablstfile		 in line: 129
+Succes 
+lat1.tex
+---------------------------------------------------------------
+
+
+
+
+
+
+
+WARNING: Unknown global command - \input		 in line: 26
+lollollollol		179
+WARNING: Unknown global command - \hyphenation		 in line: 32
+WARNING: Unknown command - \spacedallcaps		 in line: 32
+WARNING: Unknown command - \spacedlowsmallcaps		 in line: 36
+syntax error		 in line: 38
+lat10.tex
+---------------------------------------------------------------
+WARNING: Unknown MATH command - \ne0		 in line: 17
+WARNING: Unknown MATH command - \cdot3		 in line: 42
+WARNING: Unknown MATH command - \cdot4		 in line: 63
+WARNING: Unknown MATH command - \cdot9		 in line: 69
+Succes 
+lat11.tex
+---------------------------------------------------------------
+Succes 
+lat2.tex
+---------------------------------------------------------------
+lollollollol		106
+lollollollol		126
+lollollollol		135
+WARNING: Unknown usepackage arguments - r					[]		 in line: 10
+WARNING: Unknown global command - \nonfrenchspacing		 in line: 17
+lollollollol		101
+WARNING: Unknown complex command - \LaTeX			ALAH				1		 in line: 125
+WARNING: Unknown complex command - \ip			ALAH				A		 in line: 127
+WARNING: Unknown complex command - \sum			ALAH				i		 in line: 127
+Succes 
+lat3.tex
+---------------------------------------------------------------
+Succes 
+lat4.tex
+---------------------------------------------------------------
+Succes 
+lat5.tex
+---------------------------------------------------------------
+Succes 
+lat6.tex
+---------------------------------------------------------------
+Succes 
+lat7.tex
+---------------------------------------------------------------
+Succes 
+lat9.tex
+---------------------------------------------------------------
+lollollollol		157
+Succes 
+latexchanges.tex
+---------------------------------------------------------------
+LEX ERRROR39
+LEX ERRROR39
+LEX ERRROR39
+LEX ERRROR39
+LEX ERRROR39
+LEX ERRROR39
+
+WARNING: Unknown command - \hmode		 in line: 52
+WARNING: Unknown command - \ooalign		 in line: 52
+WARNING: Unknown command - \null		 in line: 52
+WARNING: Unknown command - \crcr		 in line: 52
+WARNING: Unknown command - \hidewidth		 in line: 52
+WARNING: Unknown command - \raise		 in line: 52
+
+WARNING: Unknown command - \check		 in line: 52
+WARNING: Unknown command - \fontsize		 in line: 52
+WARNING: Unknown command - \ssf		 in line: 52
+WARNING: Unknown command - \z		 in line: 52
+
+WARNING: Unknown command - \math		 in line: 52
+WARNING: Unknown command - \selectfont		 in line: 52
+WARNING: Unknown global command - \hidewidth		 in line: 52
+WARNING: Unknown global command - \egroup		 in line: 54
+WARNING: Unknown global command - \href		 in line: 58
+WARNING: Unknown global command - \undefined		 in line: 59
+
+WARNING: Unknown command - \href		 in line: 65
+syntax error		 in line: 65
+lppl.tex
+---------------------------------------------------------------
+syntax error		 in line: 43
+ltnews.tex
+---------------------------------------------------------------
+syntax error		 in line: 39
+ltnews01.tex
+---------------------------------------------------------------
+Succes 
+ltnews02.tex
+---------------------------------------------------------------
+Succes 
+ltnews03.tex
+---------------------------------------------------------------
+Succes 
+ltnews04.tex
+---------------------------------------------------------------
+Succes 
+ltnews05.tex
+---------------------------------------------------------------
+
+
+Succes 
+ltnews06.tex
+---------------------------------------------------------------
+
+WARNING: Unknown complex command - \end				alaht			equation		 in line: 93
+WARNING: Unknown complex command - \end				alaht			equation		 in line: 108
+
+
+
+
+Succes 
+ltnews07.tex
+---------------------------------------------------------------
+Succes 
+ltnews08.tex
+---------------------------------------------------------------
+
+Succes 
+ltnews09.tex
+---------------------------------------------------------------
+Succes 
+ltnews10.tex
+---------------------------------------------------------------
+
+
+Succes 
+ltnews11.tex
+---------------------------------------------------------------
+Succes 
+ltnews12.tex
+---------------------------------------------------------------
+WARNING: Unknown command - \MakeLowercase		 in line: 43
+WARNING: Unknown complex command - \acro			ALAH				TUG		 in line: 74
+
+WARNING: Unknown complex command - \acro			ALAH				CD-ROM		 in line: 125
+Succes 
+ltnews13.tex
+---------------------------------------------------------------
+
+
+
+
+Succes 
+ltnews14.tex
+---------------------------------------------------------------
+Succes 
+ltnews15.tex
+---------------------------------------------------------------
+Succes 
+ltnews16.tex
+---------------------------------------------------------------
+Succes 
+ltnews17.tex
+---------------------------------------------------------------
+Succes 
+ltnews18.tex
+---------------------------------------------------------------
+Succes 
+ltnews19.tex
+---------------------------------------------------------------
+Succes 
+ltnews20.tex
+---------------------------------------------------------------
+
+
+WARNING: Unknown complex command - \ends			ALAH				document		 in line: 90
+WARNING: Unknown command - \enddocument		 in line: 92
+WARNING: Unknown command - \xspace		 in line: 106
+WARNING: Unknown command - \xspace		 in line: 109
+WARNING: Unknown command - \RLmulticolcolumns		 in line: 125
+WARNING: Unknown command - \LRmulticolcolumns		 in line: 128
+WARNING: Unknown command - \edef		 in line: 132
+WARNING: Unknown command - \expandafter		 in line: 134
+WARNING: Unknown command - \protected		 in line: 136
+WARNING: Unknown command - \expandafter		 in line: 136
+WARNING: Unknown command - \romannumeral		 in line: 138
+WARNING: Unknown command - \expandafter		 in line: 139
+WARNING: Unknown command - \expandafter		 in line: 139
+
+WARNING: Unknown command - \romannumeral		 in line: 139
+
+WARNING: Unknown command - \expandafter		 in line: 139
+WARNING: Unknown command - \expandafter		 in line: 139
+WARNING: Unknown command - \expandafter		 in line: 139
+
+WARNING: Unknown command - \z		 in line: 139
+
+WARNING: Unknown command - \expandafter		 in line: 139
+
+WARNING: Unknown command - \romannumeral		 in line: 139
+
+WARNING: Unknown command - \expandafter		 in line: 139
+WARNING: Unknown command - \expandafter		 in line: 139
+WARNING: Unknown command - \expandafter		 in line: 139
+
+WARNING: Unknown command - \z		 in line: 139
+
+WARNING: Unknown command - \csname		 in line: 139
+WARNING: Unknown command - \endcsname		 in line: 139
+WARNING: Unknown complex command - \expandafter		 in line: 139
+Succes 
+ltnews21.tex
+---------------------------------------------------------------
+WARNING: Unknown command - \paragraph		 in line: 73
+WARNING: Unknown command - \subsubsection		 in line: 75
+WARNING: Unknown complex command - \begidn			ALAH				figure		 in line: 93
+WARNING: Unknown command - \tracefloats		 in line: 118
+WARNING: Unknown command - \tracefloatsoff		 in line: 121
+WARNING: Unknown command - \tracefloatvals		 in line: 124
+WARNING: Unknown command - \maxbalancingoverflow		 in line: 178
+WARNING: Unknown command - \docolaction		 in line: 184
+WARNING: Unknown command - \marginpar		 in line: 189
+WARNING: Unknown command - \tabularx		 in line: 191
+
+WARNING: Unknown command - \nopagecolor		 in line: 205
+WARNING: Unknown command - \rotatebox		 in line: 213
+WARNING: Unknown command - \par		 in line: 214
+WARNING: Unknown command - \par		 in line: 222
+Succes 
+ltnews22.tex
+---------------------------------------------------------------
+
+
+Succes 
+ltnews23.tex
+---------------------------------------------------------------
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR43
+LEX ERRROR43
+LEX ERRROR43
+LEX ERRROR43
+LEX ERRROR43
+LEX ERRROR43
+WARNING: Unknown command - \hmode		 in line: 46
+WARNING: Unknown command - \ooalign		 in line: 46
+WARNING: Unknown command - \null		 in line: 46
+WARNING: Unknown command - \crcr		 in line: 46
+WARNING: Unknown command - \hidewidth		 in line: 46
+WARNING: Unknown command - \raise		 in line: 46
+
+WARNING: Unknown command - \check		 in line: 46
+WARNING: Unknown command - \fontsize		 in line: 46
+WARNING: Unknown command - \ssf		 in line: 46
+WARNING: Unknown command - \z		 in line: 46
+
+WARNING: Unknown command - \math		 in line: 46
+WARNING: Unknown command - \selectfont		 in line: 46
+WARNING: Unknown global command - \hidewidth		 in line: 46
+WARNING: Unknown global command - \egroup		 in line: 47
+WARNING: Unknown global command - \fi		 in line: 48
+WARNING: Unknown complex command - \hologo			ALAH				eTeX		 in line: 69
+WARNING: Unknown command - \newmark		 in line: 69
+WARNING: Unknown command - \luatexluafunction		 in line: 112
+
+
+WARNING: Unknown complex command - \directlua		 in line: 124
+
+
+WARNING: Unknown complex command - \directlua		 in line: 129
+WARNING: Unknown command - \newattribute		 in line: 148
+WARNING: Unknown command - \newcatcodetable		 in line: 149
+WARNING: Unknown command - \newluafunction		 in line: 150
+WARNING: Unknown command - \newwhatsit		 in line: 151
+WARNING: Unknown command - \setattribute		 in line: 152
+WARNING: Unknown command - \unsetattribute		 in line: 155
+WARNING: Unknown command - \catcodetable		 in line: 156
+WARNING: Unknown command - \catcodetable		 in line: 157
+WARNING: Unknown command - \catcodetable		 in line: 158
+WARNING: Unknown command - \catcodetable		 in line: 160
+WARNING: Unknown complex command - \hologo			ALAH				eTeX		 in line: 185
+WARNING: Unknown command - \reserveinserts		 in line: 198
+WARNING: Unknown command - \AtBeginDocument		 in line: 201
+WARNING: Unknown command - \newinsert		 in line: 203
+WARNING: Unknown complex command - \textcommabelow			ALAH				S		 in line: 217
+WARNING: Unknown complex command - \textcommabelow			ALAH				s		 in line: 217
+WARNING: Unknown complex command - \textcommabelow			ALAH				T		 in line: 217
+WARNING: Unknown complex command - \textcommabelow			ALAH				t		 in line: 217
+WARNING: Unknown command - \nobreakspace		 in line: 225
+WARNING: Unknown command - \catcode		 in line: 240
+WARNING: Unknown command - \string		 in line: 240
+WARNING: Unknown command - \catcode		 in line: 240
+WARNING: Unknown command - \string		 in line: 240
+Succes 
+ltnews24.tex
+---------------------------------------------------------------
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR42
+LEX ERRROR43
+LEX ERRROR43
+LEX ERRROR43
+LEX ERRROR43
+LEX ERRROR43
+LEX ERRROR43
+WARNING: Unknown command - \hmode		 in line: 46
+WARNING: Unknown command - \ooalign		 in line: 46
+WARNING: Unknown command - \null		 in line: 46
+WARNING: Unknown command - \crcr		 in line: 46
+WARNING: Unknown command - \hidewidth		 in line: 46
+WARNING: Unknown command - \raise		 in line: 46
+
+WARNING: Unknown command - \check		 in line: 46
+WARNING: Unknown command - \fontsize		 in line: 46
+WARNING: Unknown command - \ssf		 in line: 46
+WARNING: Unknown command - \z		 in line: 46
+
+WARNING: Unknown command - \math		 in line: 46
+WARNING: Unknown command - \selectfont		 in line: 46
+WARNING: Unknown global command - \hidewidth		 in line: 46
+WARNING: Unknown global command - \egroup		 in line: 47
+
+WARNING: Unknown command - \hmode		 in line: 47
+
+WARNING: Unknown command - \ooalign		 in line: 47
+
+WARNING: Unknown command - \hidewidth		 in line: 47
+
+WARNING: Unknown command - \raise		 in line: 47
+
+WARNING: Unknown command - \check		 in line: 47
+WARNING: Unknown command - \fontsize		 in line: 47
+WARNING: Unknown command - \ssf		 in line: 47
+WARNING: Unknown command - \z		 in line: 47
+WARNING: Unknown command - \math		 in line: 47
+WARNING: Unknown command - \selectfont		 in line: 47
+
+WARNING: Unknown global command - \textcommaabove		 in line: 48
+WARNING: Unknown global command - \hidewidth		 in line: 48
+WARNING: Unknown global command - \crcr		 in line: 49
+LEX ERRROR49
+LEX ERRROR49
+WARNING: Unknown global command - \null		 in line: 49
+WARNING: Unknown global command - \crcr		 in line: 51
+WARNING: Unknown global command - \egroup		 in line: 53
+WARNING: Unknown global command - \fi		 in line: 55
+WARNING: Unknown command - \newwrite		 in line: 77
+WARNING: Unknown command - \catcode		 in line: 104
+WARNING: Unknown command - \sfcode		 in line: 108
+WARNING: Unknown command - \parskip		 in line: 121
+WARNING: Unknown command - \sfcode		 in line: 138
+WARNING: Unknown command - \Umathcode		 in line: 139
+WARNING: Unknown command - \xtxHanGlue		 in line: 145
+WARNING: Unknown command - \xtxHanSpace		 in line: 145
+WARNING: Unknown command - \XeTeXinterchartoks		 in line: 146
+WARNING: Unknown command - \XeTeXintercharclass		 in line: 148
+WARNING: Unknown command - \textcommaabove		 in line: 158
+WARNING: Unknown complex command - \c			ALAH				g		 in line: 158
+WARNING: Unknown complex command - \textcommaabove			ALAH				g		 in line: 159
+WARNING: Unknown complex command - \c			ALAH				G		 in line: 159
+WARNING: Unknown complex command - \textcommabelow			ALAH				G		 in line: 160
+WARNING: Unknown complex command - \MakeUppercase		 in line: 163
+WARNING: Unknown complex command - \c			ALAH				G		 in line: 163
+WARNING: Unknown complex command - \textcommaabove			ALAH				g		 in line: 172
+WARNING: Unknown complex command - \k			ALAH				u		 in line: 172
+WARNING: Unknown MATH command - \sin		 in line: 195
+WARNING: Unknown command - \write		 in line: 203
+WARNING: Unknown command - \ShellEscape		 in line: 204
+WARNING: Unknown command - \write		 in line: 206
+WARNING: Unknown complex command - \hologo			ALAH				eTeX		 in line: 250
+Succes 
+ltnews25.tex
+---------------------------------------------------------------
+Succes 
+ltnews26.tex
+---------------------------------------------------------------
+
+Succes 
+ltnews27.tex
+---------------------------------------------------------------
+Succes 
+ltnews28.tex
+---------------------------------------------------------------
+WARNING: Unknown command - \langle		 in line: 39
+WARNING: Unknown global command - \rangle		 in line: 42
+WARNING: Unknown complex command - \acro			ALAH				ascii		 in line: 92
+WARNING: Unknown complex command - \acro			ALAH				ascii		 in line: 96
+WARNING: Unknown complex command - \acro			ALAH				ascii		 in line: 107
+WARNING: Unknown complex command - \acro			ALAH				ascii		 in line: 136
+WARNING: Unknown complex command - \acro			ALAH				ascii		 in line: 186
+WARNING: Unknown command - \UseRawInputEncoding		 in line: 205
+WARNING: Unknown command - \UseRawInputEncoding		 in line: 207
+WARNING: Unknown command - \UseRawInputEncoding		 in line: 208
+WARNING: Unknown complex command - \meta			ALAH				encoding		 in line: 217
+WARNING: Unknown command - \pkg		 in line: 266
+WARNING: Unknown complex command - \cs			ALAH				newcounter		 in line: 269
+WARNING: Unknown complex command - \cs			ALAH				counterwithin		 in line: 276
+WARNING: Unknown complex command - \cs			ALAH				counterwithout		 in line: 276
+WARNING: Unknown complex command - \cs			ALAH				removefromreset		 in line: 279
+WARNING: Unknown complex command - \cs			ALAH				addtoreset		 in line: 280
+WARNING: Unknown command - \relax		 in line: 288
+WARNING: Unknown complex command - \hologo			ALAH				eTeX		 in line: 288
+WARNING: Unknown complex command - \meta			ALAH				command		 in line: 291
+WARNING: Unknown command - \relax		 in line: 294
+WARNING: Unknown command - \pkg		 in line: 304
+WARNING: Unknown complex command - \cs			ALAH				columnbreak		 in line: 308
+WARNING: Unknown complex command - \cs			ALAH				columnbreak		 in line: 309
+Succes 
+ltnews29.tex
+---------------------------------------------------------------
+WARNING: Unknown command - \langle		 in line: 41
+WARNING: Unknown global command - \rangle		 in line: 44
+WARNING: Unknown global command - \XeTeX		 in line: 45
+WARNING: Unknown global command - \LuaTeX		 in line: 46
+WARNING: Unknown global command - \pdfTeX		 in line: 50
+LEX ERRROR50
+LEX ERRROR50
+LEX ERRROR50
+LEX ERRROR50
+WARNING: Unknown global command - \getfirstgithubissue		 in line: 50
+WARNING: Unknown command - \ifhmode		 in line: 52
+WARNING: Unknown command - \unskip		 in line: 52
+
+WARNING: Unknown command - \penalty		 in line: 52
+WARNING: Unknown command - \strut		 in line: 52
+WARNING: Unknown command - \nobreak		 in line: 52
+WARNING: Unknown command - \hfill		 in line: 52
+
+LEX ERRROR52
+WARNING: Unknown global command - \par		 in line: 54
+WARNING: Unknown global command - \let		 in line: 54
+WARNING: Unknown global command - \cls		 in line: 54
+WARNING: Unknown global command - \pkg		 in line: 55
+WARNING: Unknown global command - \iffalse		 in line: 59
+syntax error		 in line: 59
+ltnews30.tex
+---------------------------------------------------------------
+WARNING: Unknown command - \langle		 in line: 41
+WARNING: Unknown global command - \rangle		 in line: 42
+WARNING: Unknown global command - \XeTeX		 in line: 47
+WARNING: Unknown global command - \LuaTeX		 in line: 48
+WARNING: Unknown global command - \pdfTeX		 in line: 49
+WARNING: Unknown global command - \MiKTeX		 in line: 50
+WARNING: Unknown global command - \CTAN		 in line: 51
+WARNING: Unknown global command - \TL		 in line: 52
+WARNING: Unknown command - \ifhmode		 in line: 52
+WARNING: Unknown command - \unskip		 in line: 52
+
+WARNING: Unknown command - \penalty		 in line: 52
+WARNING: Unknown command - \strut		 in line: 52
+WARNING: Unknown command - \nobreak		 in line: 52
+WARNING: Unknown command - \hfill		 in line: 52
+
+
+
+WARNING: Unknown command - \href		 in line: 52
+WARNING: Unknown command - \getfirstgithubissue		 in line: 52
+WARNING: Unknown command - \relax		 in line: 52
+LEX ERRROR53
+syntax error		 in line: 53
+ltnews31.tex
+---------------------------------------------------------------
+WARNING: Unknown usepackage arguments - multicol					{}		 in line: 40
+WARNING: Unknown command - \langle		 in line: 43
+WARNING: Unknown global command - \rangle		 in line: 44
+WARNING: Unknown global command - \XeTeX		 in line: 49
+WARNING: Unknown global command - \LuaTeX		 in line: 50
+WARNING: Unknown global command - \pdfTeX		 in line: 51
+WARNING: Unknown global command - \MiKTeX		 in line: 52
+WARNING: Unknown global command - \CTAN		 in line: 53
+WARNING: Unknown global command - \TL		 in line: 57
+LEX ERRROR57
+LEX ERRROR57
+LEX ERRROR57
+LEX ERRROR57
+WARNING: Unknown global command - \getfirstgithubissue		 in line: 57
+WARNING: Unknown command - \ifhmode		 in line: 59
+WARNING: Unknown command - \unskip		 in line: 59
+
+WARNING: Unknown command - \penalty		 in line: 59
+WARNING: Unknown command - \strut		 in line: 59
+WARNING: Unknown command - \nobreak		 in line: 59
+WARNING: Unknown command - \hfill		 in line: 59
+
+LEX ERRROR59
+WARNING: Unknown global command - \par		 in line: 62
+WARNING: Unknown global command - \let		 in line: 62
+WARNING: Unknown global command - \cls		 in line: 62
+WARNING: Unknown global command - \pkg		 in line: 63
+LEX ERRROR65
+LEX ERRROR65
+LEX ERRROR65
+LEX ERRROR65
+LEX ERRROR65
+WARNING: Unknown global command - \vbadness		 in line: 69
+WARNING: Unknown global command - \iffalse		 in line: 71
+LEX ERRROR80
+LEX ERRROR80
+
+
+WARNING: Unknown command - \TBerror		 in line: 80
+WARNING: Unknown command - \string		 in line: 80
+WARNING: Unknown command - \XeTeX		 in line: 80
+syntax error		 in line: 81
+ltnews32.tex
+---------------------------------------------------------------
+WARNING: Unknown usepackage arguments - multicol					{}		 in line: 41
+WARNING: Unknown command - \langle		 in line: 43
+syntax error		 in line: 43
+ltnews33.tex
+---------------------------------------------------------------
+syntax error		 in line: 33
+ltx3info.tex
+---------------------------------------------------------------
+syntax error		 in line: 33
+ltxcheck.tex
+---------------------------------------------------------------
+syntax error		 in line: 78
+modguide.tex
+---------------------------------------------------------------
+
+WARNING: Unknown complex command - \reasonsection		 in line: 145
+WARNING: Unknown complex command - \reasonsection		 in line: 177
+WARNING: Unknown complex command - \hspace			ALAH				12pt		 in line: 213
+WARNING: Unknown complex command - \reasonsection		 in line: 226
+WARNING: Unknown complex command - \reasonsection		 in line: 249
+WARNING: Unknown command - \nstex		 in line: 347
+Succes 
+sample2e.tex
+---------------------------------------------------------------
+WARNING: Unknown complex command - \LaTeX			ALAH				1		 in line: 122
+WARNING: Unknown complex command - \ip			ALAH				A		 in line: 124
+WARNING: Unknown complex command - \sum			ALAH				i		 in line: 124
+Succes 
+small2e.tex
+---------------------------------------------------------------
+Succes 
+source2e.tex
+---------------------------------------------------------------
+syntax error		 in line: 44
+testpage.tex
+---------------------------------------------------------------
+WARNING: Unknown usepackage arguments - ifthen					{}		 in line: 37
+WARNING: Unknown command - \evensidemargin		 in line: 44
+WARNING: Unknown command - \marginparwidth		 in line: 45
+WARNING: Unknown command - \marginparsep		 in line: 46
+WARNING: Unknown command - \topmargin		 in line: 48
+WARNING: Unknown command - \headheight		 in line: 49
+WARNING: Unknown command - \headsep		 in line: 50
+WARNING: Unknown command - \topskip		 in line: 51
+WARNING: Unknown command - \footskip		 in line: 53
+WARNING: Unknown command - \paperwidth		 in line: 55
+WARNING: Unknown command - \paperheight		 in line: 57
+WARNING: Unknown command - \parindent		 in line: 60
+WARNING: Unknown command - \unitlength		 in line: 62
+syntax error		 in line: 68
+usrguide.tex
+---------------------------------------------------------------
+
+
+WARNING: Unknown complex command - \end				alaht			lrbox		 in line: 871
+WARNING: Unknown complex command - \end				alaht			verbatim		 in line: 872
+
+
+Expucted end 
+usrguide3.tex
+---------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Expucted end 
