@@ -484,7 +484,8 @@ std::vector <std::string> commands = {
     "\\normalfont",                                  
     "\\normalsfcodes",                               
     "\\o",                                           
-    "\\oddsidemargin",                               
+    "\\oddsidemargin",
+    "\\AmSTeX",                               
     "\\oe",                                          
     "\\oldstylenums",                                
     "\\package",                                     
@@ -614,7 +615,34 @@ std::vector <std::string> commands = {
     "\\vpagerefnum",                                 
     "\\width",                                       
     "\\wlog",                                        
-    "\\zzz"                                         
+    "\\zzz",
+    "\\AA",
+    "\\AtBeginDvi",
+    "\\ClassError",
+    "\\ClassInfo",
+    "\\ClassWarning",
+    "\\ClassWarningNoLine",
+    "\\IfFileExists",
+    "\\MessageBreak",
+    "\\PackageWarningNoLine",
+    "\\aa",
+    "\\endgroup",
+    "\\footheight",
+    "\\if",
+    "\\ifmmode",
+    "\\lower",
+    "\\mathsc",
+    "\\p",
+    "\\pLaTeX",
+    "\\pbf",
+    "\\ppounds",
+    "\\prm",
+    "\\seq",
+    "\\space",
+    "\\viipt",
+    "\\vipt",
+    "\\vpt"
+                                         
 };
 
 std::vector <std::string> specCommand = {
@@ -670,7 +698,8 @@ std::vector <std::string> specCommand = {
     "\\sin",    
     "\\star",   
     "\\sum",    
-    "\\to"     
+    "\\to",
+    "\\rm"     
 
     
 };
@@ -799,7 +828,10 @@ std::vector <std::string> outside_com = {
     "\\ttfamily",            
     "\\undefined",           
     "\\vbadness",            
-    "\\vskip"               
+    "\\vskip",
+    "\\mathcal",
+    "\\TeX",
+    "\\LaTeX"               
 }; 
 
 extern FILE *yyin;
@@ -999,7 +1031,12 @@ commandout:
             printError(errMsg);
         } 
     }
-    | NEWCOM
+    | NEWCOM {}
+    | USEPAC
+        {
+        std::cout << "ERROR: Usepackage can be use only between \"documentclass\" and commandout \t"<<std::endl;
+        exit(-1);
+        }
 
 
 
@@ -1088,7 +1125,7 @@ int printError(struct S_ERROR* yep)
 int  yyerror(std::string s)
 {
     fflush(stdout);
-    std::cout<<s<<"\t in line: "<< line<<std::endl;
+    std::cout<<s<<std::endl;//"\t in line: "<< line<<std::endl;
     return 0;
 }
 
@@ -1120,7 +1157,7 @@ int main(int argc, char *argv[]){
     hardComands["\\InputIfFileExists"];
     hardComands["\\texttt"];
     hardComands["\\textsf"];
-    hardComands["\\m"] = {"file","number","text","cmd","pos","inner-pos","option-list","class-name","release-date","package-name","N","package","command","num","default","file-contents","width","size","ENC","code","date","dimen","encoding","factorfamily","family","font-switches","format-name","math-alph","math-switch","option-name","options-list","release-info","series","shape","skip","slot","slot-1","slot-2","sym-font","sym-font-1","sym-font-2","sym-font-i","symbol","text-switch","type","version","factor","","",""};
+    hardComands["\\m"] = {"file","number","text","cmd","pos","inner-pos","option-list","class-name","release-date","package-name","N","package","command","num","default","file-contents","width","size","ENC","code","date","dimen","encoding","factorfamily","family","font-switches","format-name","math-alph","math-switch","option-name","options-list","release-info","series","shape","skip","slot","slot-1","slot-2","sym-font","sym-font-1","sym-font-2","sym-font-i","symbol","text-switch","type","version","factor","definition","error-text","false","file-name","help-text","info-text","options","true","warning-text","","","","","",""};
     hardComands["\\fsf"];
     hardComands["\\input"];
     hardComands["\\file"];
@@ -1149,10 +1186,10 @@ int main(int argc, char *argv[]){
     hardComands["\\meta"] = {"environment","function","code","list","token","number","tokens","argument","beg-code","end-code","cmd","token1","token2","token3","default","defaults","command","encoding","","","","","","","","",""};
     hardComands["\\marg"] = {"environment","function","code","list","token","number","tokens","argument","beg-code","end-code","cmd","token1","token2","token3","default","defaults","processor","","","","","","","","","",""};
     hardComands["\\cs"] = {"NewDocumentEnvironment","NewDocumentCommand","protect","omit","ArgumentSpecification","ProcessorB","ProcessorA","BooleanTrue","BooleanFalse","ifblank","IfNoValueF","IfNoValueT","IfNoValueTF","newcommand","begin","end","addvspace","flushbottom","chapter","typesetnormalchapter","IfBooleanTF","New","Renew","Provide","Declare","RenewDocumentCommand","ProvideDocumentCommand","DeclareDocumentCommand","TrimSpaces","long","verb","SplitList","ProcessList","showhyphens","binom","genfrac","","IncludeInRelease","addtoreset","columnbreak","counterwithin","counterwithout","newcounter","removefromreset","","","","","","","","","","","","","","",""};
-    hardComands["\\arg"] = {"text","letters","size","length-cmd","class","beg-def","end-def","environment","function","code","cmd","list","number","tokens","arg","","beg-code","end-code","env","width","definition","file-name","package-name","class-name","style","packages","file","num","baselineskip","encoding","factor","family","font-switches","format-name","math-alph","math-switch","option-name","options-list","series","shape","slot","slot-1","slot-2","sym-font","sym-font-1","sym-font-2","symbol","text-switch","type","version","","",""};
+    hardComands["\\arg"] = {"text","letters","size","length-cmd","class","beg-def","end-def","environment","function","code","cmd","list","number","tokens","arg","","beg-code","end-code","env","width","definition","file-name","package-name","class-name","style","packages","file","num","baselineskip","encoding","factor","family","font-switches","format-name","math-alph","math-switch","option-name","options-list","series","shape","slot","slot-1","slot-2","sym-font","sym-font-1","sym-font-2","symbol","text-switch","type","version","","warning-text","error-text","help-text","info-text","true","false","specials","",""};
     hardComands["\\PassOptionsToClass"] = {"a4paper"};
     hardComands["\\ExecuteOptions"] = {"dvips","textures","dvips","textures",""};
-    hardComands["\\pageref"] = {"fsfcode","addrs"};
+    hardComands["\\pageref"] = {"fsfcode","addrs","contacts","fund",""};
     hardComands["\\fontencoding"] = {"T1"};
     hardComands["\\newenvironment"] = {"texteqn","fmpage","pageref","","","","","","","","","","","","","","",""};
     hardComands["\\foo"] = {"sm","arg1","arg2","arg3","om","","","","",""};
@@ -1170,7 +1207,7 @@ int main(int argc, char *argv[]){
     hardComands["\\heightof"] = {"text"};
     hardComands["\\depthof"] = {"text"};
     hardComands["\\r"] = {"text", "o"};
-    hardComands["\\k"] = {"text"};
+    hardComands["\\k"] = {"text","u"};
     hardComands["\\example"] = {"BBB"};
     hardComands["\\subsubsection"] = {"Tools"};
     hardComands["\\LaTeX"] = {"a","1",""};
@@ -1192,14 +1229,14 @@ int main(int argc, char *argv[]){
     hardComands["\\DeclareMathSymbol"] = {""};
     hardComands["\\DeclareMathVersion"] = {"normal"};
     hardComands["\\DeclareOldFontCommand"] = {""};
-    hardComands["\\DeclareOption"] = {"a4paper","baz","code","draft","dvips","foo","green","landscape","onecolumn","option","twoside",""};
+    hardComands["\\DeclareOption"] = {"a4paper","baz","code","draft","dvips","foo","green","landscape","onecolumn","option","twoside","german","french","","","","","",""};
     hardComands["\\DeclareSymbolFont"] = {"largesymbols","letters","operators","symbols",""};
     hardComands["\\DeclareSymbolFontAlphabet"] = {""};
     hardComands["\\DeclareTextFontCommand"] = {""};
     hardComands["\\LoadClass"] = {"article"};
     hardComands["\\MakeUppercase"] = {""};
     hardComands["\\NeedsTeXFormat"] = {"LaTeX2e"};
-    hardComands["\\PassOptionsToPackage"] = {""};
+    hardComands["\\PassOptionsToPackage"] = {"","options"};
     hardComands["\\ProvidesClass"] = {"article","class-name","minimal","neplet","smplnews",""};
     hardComands["\\ProvidesFile"] = {""};
     hardComands["\\ProvidesPackage"] = {"ifthen","latexsym","package","",""};
@@ -1219,11 +1256,10 @@ int main(int argc, char *argv[]){
     hardComands["\\fontseries"] = {"b"};
     hardComands["\\fontshape"] = {"sl"};
     hardComands["\\"] = {""};
-    hardComands["\\fontsize"] = {"12"};
+    hardComands["\\fontsize"] = {"12","5"};
     hardComands["\\hbox"] = {""};
     //hardComands["\\hologo"] = {"eTeX",""};
     hardComands["\\ip"] = {"A"};
-    hardComands["\\k"];
     hardComands["\\lablst"] = {"toc"};
     hardComands["\\mathbf"] = {"math","vec",""};
     hardComands["\\mathcal"] = {"math"};
@@ -1243,10 +1279,16 @@ int main(int argc, char *argv[]){
     hardComands["\\textcommaabove"];
     hardComands["\\textcommabelow"];
     hardComands["\\typeout"] = {""};
+    hardComands["\\DeclareRobustCommand"] = {""};
+    hardComands["\\MakeLowercase"] = {""};
+    hardComands["\\PackageError"] = {"ethel"};
+    hardComands["\\PackageWarning"] = {"fred"};
+    hardComands["\\ldots"] = {"2"};
+    hardComands["\\lowercase"] = {""};
+    hardComands["\\thispagestyle"] = {"empty"};
+    hardComands["\\uppercase"] = {""};
     hardComands["\\"] = {""};
     hardComands["\\"] = {""};
-    hardComands["\\"] = {""};
-
 
 
 
