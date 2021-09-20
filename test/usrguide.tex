@@ -744,17 +744,6 @@ which is optional and has default value \m{default}.
 Note that there can only be one optional argument but, as before,
 there can be up to nine arguments in total.
 
-\begin{decl}
-|\newenvironment|
- \arg{cmd} \oarg{num} \oarg{default} \arg{beg-def} \arg{end-def} \\
-|\newenvironment*|
- \arg{cmd} \oarg{num} \oarg{default} \arg{beg-def} \arg{end-def} \\
-|\renewenvironment|
- \arg{cmd} \oarg{num} \oarg{default} \arg{beg-def} \arg{end-def} \\
-|\renewenvironment*|
- \arg{cmd} \oarg{num} \oarg{default} \arg{beg-def} \arg{end-def}
-\end{decl}
-
 \LaTeXe\ also supports the creation of environments that have one
 optional argument.  Thus the syntax of these two commands has
 been extended in the same way as that of |\newcommand|.
@@ -863,15 +852,6 @@ It also makes it possible to define, for example, a `framed box'
 environment.  This is done by first using this environment to save
 some text in a bin \m{cmd} and then calling
 |\fbox{\usebox{|\m{cmd}|}}|.
-
-The following example defines an environment, called |fmpage|, that is
-a framed version of |minipage|.
-\begin{verbatim}
-   \newsavebox{\fmbox}
-   \newenvironment{fmpage}[1]
-     {\begin{lrbox}{\fmbox}\begin{minipage}{#1}}
-     {\end{minipage}\end{lrbox}\fbox{\usebox{\fmbox}}}
-\end{verbatim}
 
 
 \subsection{Measuring things}

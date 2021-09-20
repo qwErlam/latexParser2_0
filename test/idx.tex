@@ -52,24 +52,6 @@
 
 \def\indexentry{\par\begingroup \isanitize \idxentry}
 
-\def\idxentry#1#2{\def\foo{#2}\ifx\foo\thispage
-    \else \gdef\thispage{#2}
-          \vskip 7pt {\large \bf Page #2\par \vskip 2pt}\fi
-  \hangindent 20pt \ttfamily #1\par\endgroup}
-
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{0pt plus .5pt}
-
-\tolerance=10000          % prevents overfull boxes
-
-
-%% Add extra stretch and shrink to interword space for typewriter style.
-\newsavebox{\foobar}
-\savebox{\foobar}{\texttt{x}}
-\relax
-\expandafter\fontdimen\expandafter3\csname OT1/cmtt/m/n/10\endcsname=3pt
-\expandafter\fontdimen\expandafter4\csname OT1/cmtt/m/n/10\endcsname=3pt
-
 \begin{document}
 
 \typeout{}

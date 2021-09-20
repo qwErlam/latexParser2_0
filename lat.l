@@ -80,7 +80,7 @@ int line=1;
     }
 "\\end{document}" {return ENDDOC;}
 "\\newcommand" { return NEWCOM;}
-
+"\\newenvironment"	{std::cout << "ERROR: Newenvironment unsupported" << std::endl; exit(-1);}
 
 \\[a-zA-Z]+ {
     //if(yyleng>100)

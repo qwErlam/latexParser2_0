@@ -415,8 +415,8 @@ also useful. Doing this makes
 it less likely that you will inadvertently redefine a command, giving
 unexpected results.
 
-When you define an environment, use |\newenvironment| or
-|\renewenvironment| instead |\def\foo{...}| and |\def\endfoo{...}|.
+When you define an environment, use  or
+instead |\def\foo{...}| and |\def\endfoo{...}|.
 
 If you need to set or change the value of a \m{dimen} or \m{skip}
 register, use |\setlength|.
@@ -1096,7 +1096,7 @@ declarations.
   |\AtEndDocument| \arg{code}
 \end{decl}
 These commands declare \m{code} to be saved internally and executed
-while \LaTeX{} is executing |\begin{document}| or |\end{document}|.
+while \LaTeX{} is executing |\begin{document}| 
 
 The \m{code} specified in the argument to |\AtBeginDocument| is
 executed near the end of the |\begin{document}| code, \emph{after} the
@@ -1110,7 +1110,7 @@ The |\AtBeginDocument| hook should not be used for code that does any
 typesetting since the typeset result would be unpredictable.
 
 The \m{code} specified in the argument to |\AtEndDocument| is
-executed at the beginning of the |\end{document}| code,
+executed at the beginning of the 
 \emph{before} the final page is finished and before any leftover
 floating environments are processed. If some of the \m{code} is to be
 executed after these two processes, you should include a |\clearpage|
@@ -1403,7 +1403,7 @@ For example, if |\seq| is defined as follows:
 Then the command |\seq| can be used in moving arguments, even though
 |\ifmmode| cannot, for example:
 \begin{verbatim}
-   \section{Stuff about sequences $\seq{x}$}
+   \section{Stuff about sequences $\seq$}
 \end{verbatim}
 
 Note also that there is no need to put a |\relax| before the
@@ -1473,7 +1473,7 @@ problem, \LaTeX{} provides two new commands |\MakeUppercase| and
 
 For example:
 \begin{quotation}
-\begin{tabular}{rl}
+\begin{tabular}
    |\uppercase{aBcD\ae\AA\ss\OE}| & \uppercase{aBcD\ae\AA\ss\OE}\\
    |\lowercase{aBcD\ae\AA\ss\OE}| & \lowercase{aBcD\ae\AA\ss\OE}\\
    |\MakeUppercase{aBcD\ae\AA\ss\OE}| &
@@ -1530,28 +1530,6 @@ occur on left hand pages. Previously this option affected only
 Suppose that you want to define an environment for displaying text
 that is numbered as an equation.  A straightforward way to do this is
 as follows:
-\begin{verbatim}
-  \newenvironment{texteqn}
-    {\begin{equation}
-       \begin{minipage}{0.9\linewidth}}
-      {\end{minipage}
-     \end{equation}}
-\end{verbatim}
-However, if you have tried this then you will probably have noticed
-that it does not work perfectly when used in the middle of a paragraph
-because an inter-word space appears at the beginning of the first
-line after the environment.
-
-There is now an extra command (with a very long name) available that
-you can use to avoid this problem; it should be inserted as shown here:
-\begin{verbatim}
-  \newenvironment{texteqn}
-    {\begin{equation}
-       \begin{minipage}{0.9\linewidth}}
-      {\end{minipage}
-     \end{equation}
-     \ignorespacesafterend}
-\end{verbatim}
 
 This command may also have other uses.
 

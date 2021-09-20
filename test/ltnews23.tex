@@ -39,7 +39,7 @@
               %    so this typesets with an old format
 
 % Check we are not in the preamble of a composite document
-\def\@tempa{\@latex@error{Can be used only in preamble}\@eha}
+\def\@tempa{\latex@error{Can be used only in preamble}\@eha}
 \ifx\DeclareTextCommandDefault\@tempa
 \else
   \DeclareTextCommandDefault\textcommabelow

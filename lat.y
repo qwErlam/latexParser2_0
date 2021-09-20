@@ -208,7 +208,8 @@ std::vector <std::string> commands = {
     "\\textulc",                         
     "\\tf",                              
     "\\thanks",                          
-    "\\tiny",                            
+    "\\tiny",                
+    "\\sc",            
     "\\today",                           
     "\\topmargin",                       
     "\\topskip",                         
@@ -854,6 +855,11 @@ lasttreatment:
     | docclass usepall commandoutpall BEGINDOC maintext ENDDOC {}
     | docclass commandoutpall BEGINDOC maintext ENDDOC {}
     | docclass BEGINDOC maintext ENDDOC {}
+    | docclass docclass
+    {
+        std::cout << "ERROR: only one \"documentclass\" can be usable\t"<<std::endl;
+        exit(-1);
+    }
     | END {
         if(begEnd.size()!=0)
             std::cout << "ERROR:\t Expected end " << std::endl;
@@ -862,14 +868,20 @@ lasttreatment:
         exit(1);
     }
 
-newcomm: 
-    NEWCOM LBRACE COMMANDINER RBRACE LBRACE COMMANDINER LBRACE INCURLYBR RBRACE RBRACE{
-        
-
+newcomm:
+    NEWCOM LBRACE COMMANDINER RBRACE LBRACE LBRACE helpmeall RBRACE helpmeall RBRACE
+    {
+         //std::cout << " IN VECTOR -1 COMMANDS ---" << $3 << std::endl;
+         commands.push_back($3);
     }
-    | NEWCOM LBRACE COMMANDINER RBRACE LBRACE COMMANDINER RBRACE{
-        std::cout << " IN VECTOR - COMMANDS ---" << $3 << std::endl;
-        std::cout << " PROVERIT' IN COMMANDS ---" << $6 << std::endl;
+    | NEWCOM LBRACE COMMANDINER RBRACE LBRACE LBRACE helpmeall RBRACE RBRACE
+    {
+        //std::cout << " IN VECTOR -1 COMMANDS ---" << $3 << std::endl;
+        commands.push_back($3);
+    }  
+    | NEWCOM LBRACE COMMANDINER RBRACE LBRACE helpmeall RBRACE{
+        //std::cout << " IN VECTOR -2 COMMANDS ---" << $3 << std::endl;
+        commands.push_back($3);
     }
 
 
@@ -917,7 +929,7 @@ main:
             if(tmpVect.size()){
                 if(com.compare("\\begin") == 0){
                     begEnd.push(incom);
-                   // std::cout<<"push \t"<<incom<<std::endl;   
+                   //std::cout<<"push \t"<<incom<<std::endl;   
                 }
                 else if (com.compare("\\end") == 0){
                     if(begEnd.size()==0){
@@ -925,13 +937,13 @@ main:
                         printError(errMsg1);
                     }
                     if (incom.compare(begEnd.top()) == 0){
-                       // std::cout<<"pop \t"<<begEnd.top()<<std::endl;
+                       //std::cout<<"pop \t"<<begEnd.top()<<std::endl;
                         begEnd.pop();
 
                     }
                     else {
                         //S_ERROR *errMsg1 = new S_ERROR(ERROR_HARD,"end command not found for " + incom);
-                        std::cout<<"ERROR:\tCant find \\end{" << incom<< "}"<<std::endl;
+                        std::cout<<"ERROR:\tCant find \\end{" << incom << "}"<<"in line " << line<<std::endl;
                         //printError(errMsg1);
                         exit(-1);
                     }
@@ -963,7 +975,8 @@ commandoutpall : commandout commandoutpall
     |commandout
 
 commandout:
-    COMMAND LSK INSQUAREBR RSK LBRACE helpmeall RBRACE
+    newcomm
+    |COMMAND LSK INSQUAREBR RSK LBRACE helpmeall RBRACE
     |COMMAND LBRACE helpmeall RBRACE LBRACE helpmeall RBRACE {}
     |COMMAND LBRACE helpmeall RBRACE  { 
         if (std::find(outside_com.begin(),outside_com.end(), std::string($1)) == outside_com.end()){
